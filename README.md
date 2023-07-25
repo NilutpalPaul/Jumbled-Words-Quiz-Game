@@ -1,4 +1,4 @@
-# Jumbled-Words-Quiz-Game-semester-project-
+# Jumbled Words Quiz Game
 The project is made using the Python Programming Language.
 
 
